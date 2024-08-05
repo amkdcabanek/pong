@@ -1,6 +1,8 @@
 # pong
 
-This is a simple Pong game built using Python and the Pygame library. The game features:
+This is a simple Pong game built using Python and the Pygame library. 
+
+The game features:
 
 Basic ball movement and collision detection
 Player and opponent paddle control
@@ -8,15 +10,18 @@ Scoring system with sound effects
 Countdown timer for ball reset after scoring
 
 How to Run
+
 Ensure you have Python and Pygame installed.
 Clone this repository.
 Run the pong.py script.
 
 Controls
+
 Use the UP and DOWN arrow keys to control the player's paddle.
 The opponent's paddle is controlled by a basic AI.
 
 Requirements
+
 Python 3.x
 Pygame
 
