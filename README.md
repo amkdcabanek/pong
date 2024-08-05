@@ -22,8 +22,9 @@ The opponent's paddle is controlled by a basic AI.
 
 **Requirements**
 
-Python 3.x
+Python 3.x and
 Pygame
 
 **Sounds**
+
 The game includes sound effects for ball bounce, scoring, and losing a point. Make sure the sound files (odbicie.mp3, success.mp3, loose.mp3) are in the same directory as the script.
