@@ -4,9 +4,9 @@ This is a simple Pong game built using Python and the Pygame library.
 
 **The game features:**
 
-Basic ball movement and collision detection
-Player and opponent paddle control
-Scoring system with sound effects
+Basic ball movement and collision detection //
+Player and opponent paddle control //
+Scoring system with sound effects //
 Countdown timer for ball reset after scoring
 
 **How to Run**
