@@ -1,30 +1,31 @@
-## Pong
+# Pong Game
 
-This is a simple Pong game built using Python and the Pygame library. 
+This repository contains a simple Pong game written in Python using the PyGame library.
 
-**The game features:**
+## Project Overview
 
-Basic ball movement and collision detection //
-Player and opponent paddle control //
-Scoring system with sound effects //
-Countdown timer for ball reset after scoring
+- **Language**: Python
+- **Library**: PyGame
+- **Status**: Complete
 
-**How to Run**
+## Features
 
-Ensure you have Python and Pygame installed.
-Clone this repository.
-Run the pong.py script.
+- Basic Pong game mechanics with player and opponent paddles.
+- Ball movement with collision detection.
+- Scoring system with sound effects.
+- Simple AI for the opponent paddle.
 
-**Controls**
+## How to Run
 
-Use the UP and DOWN arrow keys to control the player's paddle.
-The opponent's paddle is controlled by a basic AI.
+1. Ensure you have Python and PyGame installed.
+2. Run the `main.py` file using Python.
 
-**Requirements**
+## Code Summary
 
-Python 3.x and
-Pygame
+The `main.py` script sets up the game window, initializes game objects, and contains the main game loop. Key functionalities include:
+- **Ball Animation**: Handles ball movement and collision with walls and paddles.
+- **Player Animation**: Controls player paddle movement.
+- **Opponent AI**: Basic AI to control opponent paddle movement.
+- **Ball Restart**: Resets ball position after scoring.
 
-**Sounds**
-
-The game includes sound effects for ball bounce, scoring, and losing a point. Make sure the sound files (odbicie.mp3, success.mp3, loose.mp3) are in the same directory as the script.
+Enjoy playing the game!
